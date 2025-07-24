@@ -21,4 +21,4 @@ Bar-related coupons had the lowest performance, with only 41% of customers redee
 A deeper examination of seasonal purchasing patterns could provide valuable insights, particularly comparing customer behavior and coupon usage during warmer months versus colder seasons.
 
 **Link to Jupyter notebook:**
-coupon_acceptance_analysis.ipynb
+[coupon_acceptance_analysis.ipynb](https://github.com/ricochetventures/coupon/blob/main/coupon_acceptance_analysis.ipynb)
